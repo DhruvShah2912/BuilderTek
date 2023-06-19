@@ -12,7 +12,13 @@
     <aura:attribute name="Spinner" type="Boolean" default="false"/>
     
     
-    <!-- testing dhruv-->
+    <aura:attribute name="PreviousStage" type="String"/>
+    
+    <aura:attribute name="fileData2" type="List" access="global"/>
+    <aura:attribute name="fileBody" type="string" access="global"/>
+    <aura:attribute name="fileName2" type="String" access="global"/>
+    <aura:attribute name="uploadFile2" type="Boolean" access="global"/>
+    <aura:attribute name="deleteFileName" type="String" />
     
     
     
